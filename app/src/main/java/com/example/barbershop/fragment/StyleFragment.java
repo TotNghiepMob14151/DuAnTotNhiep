@@ -70,8 +70,6 @@ public class StyleFragment extends Fragment {
         Picasso.get().load(style8).into(image8);
         Picasso.get().load(style9).into(image9);
         Picasso.get().load(style10).into(image10);
-        Picasso.get().load(style11).into(image11);
-        Picasso.get().load(style12).into(image12);
 
     }
 }
