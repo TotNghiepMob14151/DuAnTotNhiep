@@ -54,11 +54,7 @@ public class StyleFragment extends Fragment {
         image5 = view.findViewById(R.id.image5);
         image6 = view.findViewById(R.id.image6);
         image7 = view.findViewById(R.id.image7);
-        image8 = view.findViewById(R.id.image8);
-        image9 = view.findViewById(R.id.image9);
-        image10 = view.findViewById(R.id.image10);
-        image11 = view.findViewById(R.id.image11);
-        image12 = view.findViewById(R.id.image12);
+
 
 
 
