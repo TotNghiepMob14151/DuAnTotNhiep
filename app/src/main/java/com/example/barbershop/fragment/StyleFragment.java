@@ -14,18 +14,7 @@ import com.example.authenticationsms.R;
 import com.squareup.picasso.Picasso;
 
 public class StyleFragment extends Fragment {
-    private ImageView image1;
-    private ImageView image2;
-    private ImageView image3;
-    private ImageView image4;
-    private ImageView image5;
-    private ImageView image6;
-    private ImageView image7;
-    private ImageView image8;
-    private ImageView image9;
-    private ImageView image10;
-    private ImageView image11;
-    private ImageView image12;
+
     String style1 = "https://firebasestorage.googleapis.com/v0/b/authenticationsms.appspot.com/o/Style%2F11.jpg?alt=media&token=33b4c939-7808-439c-a773-a2981eded34c";
     String style2 = "https://firebasestorage.googleapis.com/v0/b/authenticationsms.appspot.com/o/Style%2F12.jpg?alt=media&token=681d3380-d390-4471-995c-a2b80befb7f4";
     String style3 = "https://firebasestorage.googleapis.com/v0/b/authenticationsms.appspot.com/o/Style%2F14.jpg?alt=media&token=6e1f0937-57df-478e-becb-c632b913832e";
