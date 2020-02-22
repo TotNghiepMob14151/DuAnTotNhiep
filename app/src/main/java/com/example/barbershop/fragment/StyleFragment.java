@@ -60,16 +60,7 @@ public class StyleFragment extends Fragment {
         image11 = view.findViewById(R.id.image11);
         image12 = view.findViewById(R.id.image12);
 
-        Picasso.get().load(style1).into(image1);
-        Picasso.get().load(style2).into(image2);
-        Picasso.get().load(style3).into(image3);
-        Picasso.get().load(style4).into(image4);
-        Picasso.get().load(style5).into(image5);
-        Picasso.get().load(style6).into(image6);
-        Picasso.get().load(style7).into(image7);
-        Picasso.get().load(style8).into(image8);
-        Picasso.get().load(style9).into(image9);
-        Picasso.get().load(style10).into(image10);
+
 
     }
 }
